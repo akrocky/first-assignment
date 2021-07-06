@@ -1,0 +1,100 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+.cadetblue-color {
+    color: cadetblue;
+}
+
+#first-p {
+    color: aquamarine;
+}
+
+.content-button {
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange, #FFA07A);
+    border-radius: 20px;
+    padding: 15px 40px;
+
+    box-shadow: 0px 0px 15px rgb(243, 204, 194);
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 70px;
+}
+
+.half-width {
+    width: 50%;
+
+    margin-left: 100px;
+
+}
+
+.half-width img {
+    width: 50%;
+}
+
+#about-me-img {
+    width: 30%;
+}
+
+#about-me-text {
+    padding-right: 200px;
+}
+
+#sec2-backimg {
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+.rec-item-container {
+    display: flex;
+    margin-right: 3%;
+    margin-left: 3%;
+
+
+}
+
+.rec-item-width {
+    width: 30%;
+    margin-left: 2%;
+    padding: 40px 40px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgb(185, 206, 228);
+
+}
+
+.rec-text {
+    text-align: center;
+}
+
+.p-pad {
+    padding-right: 50px;
+}
+
+#img1 {
+    width: 200px;
+}
+
+#img2 {
+    width: 200px;
+}
+
+#img3 {
+    width: 200px;
+}
+
+.last-sec {
+    background-color: black;
+}
